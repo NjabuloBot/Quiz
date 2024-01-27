@@ -11,3 +11,9 @@ body{
     aspect-ratio: 35/4;
     padding:0.4rem;
 }
+
+header{
+    height:50px;
+    background-color: #1b1b32;
+    display:flexbox;
+}
