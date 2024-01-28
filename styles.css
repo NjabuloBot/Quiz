@@ -82,3 +82,12 @@ nav li:hover{
   main{
     padding-top: 35px;
   }
+
+  section{
+    width:80%;
+    margin-right:auto;
+    margin-bottom:10px;
+    margin-top:0;
+    margin-left:auto;
+    max-width:600px;
+  }
