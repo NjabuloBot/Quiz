@@ -118,3 +118,8 @@ input{
     text-align: left;
     margin: 5px 5px 0 0;
 }
+
+.info label{
+    width:10%;
+    min-width:55px;
+}
