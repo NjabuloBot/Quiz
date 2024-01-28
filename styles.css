@@ -93,3 +93,10 @@ section{
     margin-left:auto;
     max-width:600px;
 }
+
+.info{
+    padding-top: 3opx;
+    padding-left: 3opx;
+    padding-right: 0;
+    padding-bottom: 0;
+}
