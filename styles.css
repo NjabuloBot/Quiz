@@ -177,3 +177,7 @@ address{
     text-align:center;
     padding:5px 5px 5px 5px;
 }
+
+*{
+    scroll-behavior: smooth;
+}
