@@ -172,3 +172,8 @@ footer{
 footer,footer a{
     color:#d0d0d5;
 }
+
+address{
+    text-align:center;
+    padding:5px 5px 5px 5px;
+}
