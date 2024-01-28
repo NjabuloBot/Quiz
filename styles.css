@@ -25,6 +25,7 @@ header{
 h1{
     color:#f1be32;
     font-size:min(5vw, 1.2em);
+    text-align: center;
 }
 
 nav > ul{
@@ -71,4 +72,8 @@ nav li:hover{
     background-color:#dfdfe2;
     color:#1b1b32;
     cursor:pointer;
+  }
+
+  main{
+    padding-top: 35px;
   }
