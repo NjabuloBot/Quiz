@@ -60,12 +60,12 @@ nav li{
 }
 
 li a{
-    color:#dfdfe3;
+    color:inherit;
     text-decoration: none;
 }
 
 nav li:hover{
-    background-color: #dfdfe3;
-    color: #1b1b32;
-    cursor: pointer;
-}
+    background-color:#dfdfe2;
+    color:#1b1b32;
+    cursor:pointer;
+  }
